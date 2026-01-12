@@ -31,5 +31,6 @@ Be aware of that.
 ## Disclaimer
 This project is literally made just for the funzies.
 If you do some funny shtuff with it, it ain't my fault.
+Also, don't worry, this does not inject 57 horses into your personal computer, I ain't no John Doe.
 
 :3
