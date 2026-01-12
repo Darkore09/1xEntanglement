@@ -9,8 +9,6 @@ This program also adds some unique twists to make your experience worse.
 **This program is intentionally disruptive.**
 Be aware of that.
 
----
-
 ## Features
 - Randomized error popups
 - Multi-monitor support
@@ -19,22 +17,16 @@ Be aware of that.
 - Global hotkeys
 - Kill switch (in case my code sucks)
 
----
-
 ## Controls
 - **F8** – Start Entanglement
-- **F4** – Emergency Quit
+- **F4** – Emergency Quit (alt+f4 works too)
 - Tray icon – Restore / Quit
-
----
 
 ## Installation
 1. Download the latest `.exe` from **Releases**
 2. Run it
 3. ???
 4. Profit
-
----
 
 ## Disclaimer
 This project is literally made just for the funzies.
