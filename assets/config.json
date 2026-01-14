@@ -1,0 +1,20 @@
+{
+  "popup_min": 10,
+  "popup_max": 15,
+  "vertical_static": true,
+  "moving_popups": false,
+  "strong_popups": false,
+  "enable_splitting": false,
+  "enable_red_popups": false,
+  "multi_screen": false,
+  "speed_multiplier": 1.0,
+  "split_chance": 0.25,
+  "split_depth": 2,
+  "red_popup_chance": 0.15,
+  "strong_min_hits": 2,
+  "strong_max_hits": 4,
+  "challenge_interval_min": 30,
+  "challenge_interval_max": 90,
+  "challenge_strength": 0.3,
+  "challenge_rarity": 0.3
+}
