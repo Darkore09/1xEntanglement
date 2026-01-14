@@ -49,7 +49,7 @@ Is your entanglement ending too soon? Well try our new **Strong Popups** only fo
 
 ### Moving Popups
 
-If you thought popups couldn't be dvd logos, think again. I'm not even gonna lie, this is a rlly good aim trained.
+If you thought popups couldn't be dvd logos, think again. I'm not even gonna lie, this is a rlly good aim trainer.
 
 ![Moving Popups](media/moving_popups.gif)
 
